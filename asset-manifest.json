@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rijon_reactjsproject_1/static/css/main.8aacbda3.chunk.css",
+    "main.js": "/rijon_reactjsproject_1/static/js/main.43b3cd51.chunk.js",
+    "main.js.map": "/rijon_reactjsproject_1/static/js/main.43b3cd51.chunk.js.map",
+    "runtime-main.js": "/rijon_reactjsproject_1/static/js/runtime-main.bd6710c9.js",
+    "runtime-main.js.map": "/rijon_reactjsproject_1/static/js/runtime-main.bd6710c9.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/rijon_reactjsproject_1/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.8a12f7ef.chunk.js": "/rijon_reactjsproject_1/static/js/2.8a12f7ef.chunk.js",
+    "static/js/2.8a12f7ef.chunk.js.map": "/rijon_reactjsproject_1/static/js/2.8a12f7ef.chunk.js.map",
+    "index.html": "/rijon_reactjsproject_1/index.html",
+    "precache-manifest.cc7cc51d2cbd1c3ec70c20d3b2336a49.js": "/rijon_reactjsproject_1/precache-manifest.cc7cc51d2cbd1c3ec70c20d3b2336a49.js",
+    "service-worker.js": "/rijon_reactjsproject_1/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/rijon_reactjsproject_1/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.8aacbda3.chunk.css.map": "/rijon_reactjsproject_1/static/css/main.8aacbda3.chunk.css.map",
+    "static/js/2.8a12f7ef.chunk.js.LICENSE.txt": "/rijon_reactjsproject_1/static/js/2.8a12f7ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd6710c9.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.8a12f7ef.chunk.js",
+    "static/css/main.8aacbda3.chunk.css",
+    "static/js/main.43b3cd51.chunk.js"
+  ]
+}
